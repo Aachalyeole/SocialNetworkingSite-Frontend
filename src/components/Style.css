@@ -1,0 +1,108 @@
+.main{
+    height: 695px;
+    background-color:#ff7d15 ;
+  }
+  .navbar{
+    width: 100%;
+    background-color:#ff7d15 ;
+  }
+  .logo{
+    width: 50%;
+    display: flex;
+    justify-content: left;
+  }
+  .image1{
+    max-height: 65px;
+    width: auto;
+    margin-left: 35px;
+  }
+  .login{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+  }
+  #heading{
+    color:#d77448 ;
+    align-items: center
+  }
+  .box{
+    height: 550px;
+    width: 100%;
+    background-color: #fceee2;
+  }
+  .box1{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .image2{
+    max-width: 80%;
+    max-height: 450px;
+    margin-left: 25px;
+  }
+  .box2{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .form-group {
+    margin-bottom: 15px;
+    border-color: #d77448;
+    
+  }
+  button{
+    background-color:#ff6e00;
+    border-color: #fceee2;
+    color: #fceee2;
+  }
+  .login-styling input{
+    border-color: #fceee2;
+  }
+  .birthday{
+    color: #d77448;
+  }
+
+  .try input,select{
+    border-radius: 5px;
+    border-color: #d77448;
+
+  }
+  
+  
+  /* networking page css */
+  .base{
+    background-color: #00b266;
+
+  }
+
+  .navbar1{
+    width: 100% !important;
+  }
+  .search input{
+    border-radius: 5px;
+    border-color: #00b266 !important;
+    border-right: color(#a8f4d6 red green blue);
+    background-color: #a8f4d6 ;
+
+  }
+  .search button{
+    border-color: #a8f4d6;
+    background-color: #00b266;
+    color: #a8f4d6;
+    border-radius: 3px;
+
+  }
+  .operation {
+      color: white ; 
+      display: flex;
+      justify-content: space-evenly; 
+  }
+  .operation a{
+    color: white;
+  }
+  .operation img{
+    margin-top: 5px;
+    max-height: 25px;
+  }
